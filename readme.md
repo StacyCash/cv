@@ -17,6 +17,8 @@ She has a passion for sharing knowledge. Using story telling for sharing her exp
 
 Stacy is currently in the closing stages of completing her first book, aimed at helping developers get started building dynamic applications using C#, Azure Functions and Azure Static Web Apps.
 
+For her effort in the community Stacy has been awarded the Microsft MVP for Developer Technologies since 2020.
+
 ## Skills
 
 * Public Speaking
