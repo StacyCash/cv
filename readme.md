@@ -122,8 +122,11 @@ Responsible for Heineken Export Group projects. Close contact with the customer 
 ## Education
 
 BSc Information Technology
+
 De Montfort University
+
 Leicester
+
 UK 1994-1998
 
 ## Languages
