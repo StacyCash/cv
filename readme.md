@@ -8,6 +8,7 @@
 * [sessionize.com/stacy-cashmore](https://sessionize.com/stacy-cashmore)
 * [inkedin.com/in/stacycash](https://www.linkedin.com/in/stacycash)
 * [twitch.com/stacyclouds](https://twitch.com/stacyclouds)
+* [Microsoft MVP Award](https://mvp.microsoft.com/en-us/PublicProfile/5003925?fullName=Stacy%20%20Cashmore)
 
 ## Profile
 
