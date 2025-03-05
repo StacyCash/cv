@@ -2,7 +2,7 @@
 
 ## Online Presence
 
-* [twitter.com/stacy_cash](https://twitter.com/stacy_cash)
+* [bsky.app/profile/stacy-clouds.net](https://bsky.app/profile/stacy-clouds.net)
 * [github.com/stacycash](https://github.com/stacycash)
 * [stacy-clouds.net](https://stacy-clouds.net)
 * [sessionize.com/stacy-cashmore](https://sessionize.com/stacy-cashmore)
