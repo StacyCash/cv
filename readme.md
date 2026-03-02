@@ -12,13 +12,13 @@
 
 ## Profile
 
-Speaker, author and software developer. Stacy has been developing solutions since the mid-1990s in various companies and industries ranging from facilitating contract jobbing to allowing consumers to close a mortgage without the help of a financial adviser – with lots in between.
+Three decades of shipping software across industries gives Stacy stories worth hearing. She takes the stage to share what actually works — live code, hard-won lessons, and a genuine passion for helping teams build better — recognised with a Microsoft MVP Award since 2020.
 
-She has a passion for sharing knowledge: using story telling for sharing her experiences to help teams grow in the ways that they develop software and work together, and performing live coding demonstrations to inspire others to try new technologies.
+Speaker, author and software developer, Stacy has been developing solutions since the mid-1990s in various companies and industries ranging from facilitating contract jobbing to allowing consumers to close a mortgage without the help of a financial adviser – with lots in between.
 
-Stacy has just completed her first book, aimed at helping developers get started building dynamic applications using C#, Azure Functions and Azure Static Web Apps.
+She has a passion for sharing knowledge: using storytelling to share her experiences to help teams grow in the ways that they develop software and work together, and performing live coding demonstrations to inspire others to try new technologies.
 
-For her effort in the community Stacy has been awarded the Microsoft MVP for Developer Technologies since 2020.
+Stacy has just released the 2nd edition of her book, aimed at helping developers get started building dynamic applications using C#, Azure Functions and Azure Static Web Apps.
 
 ## Skills
 
