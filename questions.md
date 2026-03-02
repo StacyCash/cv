@@ -1,122 +1,158 @@
 # CV Improvement Questions
 
-The questions below identify gaps between the current CV and what senior technical / developer-relations roles
-(like the TechTree posting) typically look for. Answer as many as you can — every answered question is a
-potential improvement to the CV.
+**Target role**: Developer Advocate — TechTree client (Berlin / Remote, 70k–95k GBP)  
+**Company focus**: Simplifying distributed-system integration layers (REST/gRPC replacement); polyglot, strongly-typed, AI-assisted development; monolith-to-microservice migration.
+
+**Context**: You are moving *into* Developer Advocacy. Your community speaking is volunteer work. At Omniplan you speak to clients and give talks on the company's behalf. The CV needs to show that the skills and habits of a Developer Advocate are already present — just not yet in a dedicated role.
+
+Answer as many questions as you can — each answer is a direct improvement to the CV for this role.
 
 ---
 
-## 1. Quantified Impact
+## 1. Client-Facing & Company Speaking at Omniplan
 
-Hiring managers and automated screening tools respond to numbers. The current CV contains almost none.
+You speak to clients and give talks for Omniplan — this is the closest thing to professional Developer Advocacy on your CV and it barely appears. It needs to be surfaced clearly in the Omniplan section.
 
-- At Omniplan, roughly how large is the engineering team you work with / coach?
-- Can you quantify any DevOps improvements? (e.g. "reduced deployment lead time from X days to Y hours", "increased deployment frequency by X%", "cut production incidents by X%")
-- At Independer, how large was the mortgage team you led? How many developers reported to or were technically guided by you?
-- Did the "execution only" mortgage product have measurable business impact you can share? (e.g. user numbers, conversion rate improvements, revenue contribution)
-- At Cubit / Heineken, roughly how many markets or countries did the POS analysis software cover?
-- How many developers have you mentored in total, and over what period?
+- What kind of talks do you give for Omniplan? (e.g. product demos, technical deep-dives, conference talks representing the company, webinars?)
+- Who is the audience — external customers, prospects, partner developers, conference attendees?
+- How often do you do this? (roughly — monthly, quarterly, a few times a year?)
+- Do you present at specific conferences or events on Omniplan's behalf?
+- Do you create any written or recorded content for Omniplan (e.g. blog posts, documentation, video demos, webinars)?
+- Is there an internal developer/team-enablement aspect — workshops, internal talks, onboarding material?
 
----
-
-## 2. Public Speaking & Community Reach
-
-Speaking is a core strength, but the CV gives no detail about scale or impact.
-
-- Approximately how many conference / meetup talks have you given in total?
-- What are your flagship talks — the ones you are best known for or most proud of? (titles + a one-line description)
-- What are the largest events you have spoken at? (audience size, conference name)
-- Do you have any talks available online (YouTube, conference recordings)? If so, do you have view counts?
-- How many events have you helped organise, and in what role (co-organiser, programme committee, track host)?
-- Do you host or co-host any regular community events (e.g. a recurring meetup)?
-- What is your Sessionize speaker rating / any speaker scores you are happy to share?
+*Answers to these questions will be added directly to the Omniplan section to show that client-facing technical communication is already part of your day job.*
 
 ---
 
-## 3. Your Book
+## 2. Positioning the Transition
 
-The CV mentions the 2nd edition but gives no identifying detail.
+Hiring managers for Developer Advocate roles see many applicants who are already in DevRel. The CV needs to proactively explain why someone from an engineering background is a stronger choice — not despite lacking the official title, but because of the depth and authenticity it brings.
+
+- How would you describe in your own words why you want to move into Developer Advocacy?
+- What do you believe you bring from an engineering background that a career DevRel person might not?
+- Is there a short version of this story that could go in the Profile section?
+
+---
+
+## 3. Java & Python (Required Skills Listed in the Job)
+
+The job spec explicitly lists C#, Java, and Python as required skills. Your CV only shows C#.
+
+- Do you have working knowledge of Java? If so, at what level (basic, professional, hobby projects)?
+- Do you have working knowledge of Python? If so, at what level?
+- Have you ever written demo code, tutorials, or integrations in Java or Python?
+- If you don't currently use them, are you comfortable picking them up to create demos and tutorials?
+
+*If you have any experience in either language, even at a basic level, they should be on the CV.*
+
+---
+
+## 4. Distributed Systems & Integration Experience
+
+The company's core product simplifies service-to-service integration — exactly the problem your Omniplan architecture work addresses. The CV buries this.
+
+- Can you describe the services architecture at Omniplan in more detail? (number of services, how they communicate, protocols used — REST, gRPC, messaging?)
+- Have you worked with API gateways, service meshes, or inter-service communication patterns?
+- Have you personally led or contributed to a monolith-to-microservices migration? If so, what was the scope?
+- Do you have experience with message brokers (Azure Service Bus, RabbitMQ, Kafka)?
+- Have you worked with Dapr, or evaluated it?
+- Any experience explaining or demoing distributed system patterns to other developers?
+
+---
+
+## 5. AI-Assisted Development
+
+The company explicitly states it "empowers AI-assisted development". This is a key talking point for the role.
+
+- Do you use GitHub Copilot, Cursor, or other AI coding assistants regularly?
+- Have you written blog posts, talks, or demos about AI-assisted development?
+- Have you integrated Azure OpenAI, OpenAI APIs, or similar into any projects?
+- Do you have opinions on where AI tooling helps most in developer workflows? (useful for conference talks)
+
+---
+
+## 6. Content Creation — Types & Volume
+
+The role requires creating "videos, demos, tutorials, live coding sessions, podcasts, interviews, and talks." The CV only references live coding and Twitch. Note: your community speaking is volunteer work — list it accurately, but make sure it is all listed.
+
+- How many conference / meetup talks have you given in total since 2019?
+- What are your flagship talks (title + one-line description)?
+- What are the largest events you have spoken at (conference name, approximate audience size)?
+- Do you have any talks recorded online? (links + view counts if available)
+- How often do you stream on Twitch, and what is your approximate follower / average viewer count?
+- Do you produce YouTube content? (channel link, subscriber count, view counts)
+- Have you appeared on or hosted any podcasts?
+- Do you write technical tutorials, articles, or a newsletter? (platform, subscriber / monthly reader count)
+- Do you contribute to or maintain open-source projects that developers discover through your advocacy?
+
+---
+
+## 7. Your Book
+
+The CV mentions the 2nd edition but never names it — recruiters can't look it up.
 
 - What is the full title of the book?
 - Who is the publisher?
-- When was the 1st edition published? When was the 2nd edition released?
-- Is it available on Amazon / O'Reilly / elsewhere? (link)
-- Any sales figures or reader reception you are proud of? (e.g. "sold X copies", "4.8★ on Amazon")
-- What is new or significantly improved in the 2nd edition?
+- When was the 1st edition published? When did the 2nd edition come out?
+- Where is it available? (Amazon / O'Reilly / publisher site — please add the link)
+- Any reader reception worth sharing? (star rating, number of reviews, sales milestone)
+- Is there anything in the book directly relevant to distributed systems, Azure Functions as microservices, or integration patterns?
 
 ---
 
-## 4. Technical Skills — Currency & Cloud Depth
+## 8. Quantified Impact
 
-The skills list was last meaningfully updated around 2020. Roles in 2026 expect more specificity.
+The CV has almost no numbers. Every metric strengthens the case.
 
-- Do you work with containers (Docker, Kubernetes, Azure Kubernetes Service)?
-- Which Azure services do you use day-to-day beyond App Service and Functions? (e.g. Container Apps, Service Bus, Event Grid, Cosmos DB, API Management, Azure AI / OpenAI integration)
-- Do you hold any Azure certifications? (e.g. AZ-204, AZ-400, AZ-900)
-- Do you work with GitHub Actions, Azure Pipelines, or other CI/CD tooling?
-- Are you working with AI-assisted development tooling (GitHub Copilot, Azure OpenAI, etc.)?
-- Do you use Infrastructure as Code (Bicep, Terraform, ARM)?
-- Any experience with Dapr, KEDA, or other cloud-native patterns?
-
----
-
-## 5. Content Creation & Audience
-
-Developer advocacy roles care deeply about content reach.
-
-- Do you write a blog or newsletter? If so, where is it hosted and roughly how many subscribers / monthly readers?
-- What is your Twitch / streaming audience size and how regularly do you stream?
-- Do you produce any YouTube content? Subscriber / view counts?
-- Do you write on platforms like dev.to, Medium, or Substack?
-- Do you contribute to or maintain any open source projects? Which ones, and what is your role?
-- Any podcast appearances or hosting?
+- How many conferences and meetups have you spoken at? (total count and approximate countries)
+- How many events have you helped organise?
+- How many developers have you mentored?
+- At Omniplan: how large is the engineering team you work with / coach?
+- At Omniplan: any measurable DevOps improvement you can cite? (e.g. "reduced deployment lead time from X to Y")
+- At Independer: how large was the mortgage team you led?
 
 ---
 
-## 6. Microsoft MVP Award
+## 9. Microsoft MVP Award
 
-The MVP Award is mentioned but the detail is thin.
+The award is mentioned but the substance behind it is thin.
 
-- Which specific MVP category are you awarded in (e.g. Developer Technologies, Azure)?
-- Have you been renewed every year since 2020? How many consecutive years is that now?
-- What contributions led to the initial MVP Award and to renewals? (speaking, open source, content, community leadership — pick the highlights)
-
----
-
-## 7. Mental Health Advocacy
-
-This is mentioned briefly in Community Work but not developed.
-
-- Do you have a formal affiliation with any mental health in tech organisations or initiatives?
-- Are there specific talks or campaigns you have been part of that you could name?
-- Is this something you want to keep in the CV, or would you prefer to keep it separate from your professional positioning?
+- Which MVP category are you awarded in (e.g. Developer Technologies, Azure)?
+- How many consecutive years have you been awarded (2020 to 2026 is 6 years — is that right)?
+- What specific contributions earned and renewed it? (speaking volume, content, community leadership)
 
 ---
 
-## 8. Current Role Title & Scope
+## 10. Travel & Location
 
-"Tech Explorer DevOps" is an unusual title that may not translate clearly to an external reader.
+The role requires "willingness to travel to global IT hubs for conferences, events, meetups and workshops." The CV says nothing about this.
 
-- How would you describe the role in plain language? (e.g. Principal Engineer, Staff Engineer, Internal Developer Advocate, Engineering Coach)
-- Do you have a formal line-management or formal people-management responsibility, or is it purely technical leadership / influence?
-- Is there a specific product or platform you are the technical owner of at Omniplan?
-
----
-
-## 9. Career Positioning & Target Role
-
-Knowing what Stacy is aiming for helps sharpen every section.
-
-- What type of role is the TechTree posting, and what is the company? (sharing the job title and company will help align the CV more precisely)
-- Is the primary target Developer Advocate / Developer Relations, Staff / Principal Engineer, Engineering Manager, or something else?
-- Is there a specific industry or company size you prefer?
-- Are you open to fully remote, hybrid, or on-site roles? (useful for the header or a summary line)
-- Is there a preferred location or timezone constraint worth mentioning?
+- Are you willing to travel regularly for conferences and events?
+- Which countries / conferences have you already travelled to for speaking?
+- Are you comfortable working remotely with a Berlin-based team (timezone is the same — CET/CEST)?
 
 ---
 
-## 10. Anything Else Worth Knowing?
+## 11. Current Role Title & Scope
 
-- Are there achievements, projects, or recognitions not currently on the CV that you are particularly proud of?
-- Are there past roles or technologies you want to de-emphasise or remove (e.g. Visual Basic 6, Classic ASP)?
-- Is there a portfolio site, demo reel, or talk list on your personal site that should be linked more prominently?
+"Tech Explorer DevOps" won't be understood by a hiring manager outside the Netherlands.
+
+- How would you describe the role in plain language for an external audience? (e.g. Principal Engineer, Internal Developer Advocate, Engineering Coach)
+- Is your responsibility purely technical influence, or do you have any formal people-management duties?
+
+---
+
+## 12. Mental Health Advocacy
+
+Mentioned briefly but not developed — it's either a strength or a distraction for this role.
+
+- Do you have named talks on this topic you could list?
+- Is this something you want to prominently feature for this role, or keep as a brief mention?
+
+---
+
+## 13. Anything Else
+
+- Are there achievements, projects, or recognitions not currently on the CV that you are proud of?
+- Are there old technologies you want to de-emphasise or remove (e.g. Visual Basic 6, Classic ASP, AngularJS)?
+- Is your personal site (stacy-clouds.net) the best place for a talk list / portfolio? Should it be linked more prominently?

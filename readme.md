@@ -24,7 +24,8 @@ Stacy has just released the 2nd edition of her book, aimed at helping developers
 
 * Public Speaking
 * C#, ASP.Net
-* Web API
+* Web API, Microservices, Service-Oriented Architecture
+* Azure App Service, Azure Functions, Azure Static Web Apps
 * AngularJS, Angular
 * Scrum, Agile, TDD, Pair Programming
 * MS SQL
@@ -47,7 +48,8 @@ On top of this work she has mentored a number of developers to help them in thei
 #### Tech Explorer DevOps
 
 * C#, Angular, Blazor
-* Azure App Service
+* Azure App Service, Azure Functions
+* Microservices, Service-Oriented Architecture
 
 Stacy wears several caps at Omniplan.
 
