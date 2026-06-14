@@ -18,7 +18,7 @@ She has a passion for sharing knowledge: using story telling for sharing her exp
 
 In 2022 Stacy published her first book, aimed at helping developers get started building dynamic applications using C#, Azure Functions and Azure Static Web Apps. In February 2026, she released the second edition, updated for .NET 9 and with added infrastructure as code content to help readers apply what they've learned in real-world scenarios.
 
-Stacy is driven, in both daily work and in the community, by the feeling she get when she sees someone improve. The smile on their face when they enjoy what they're doing more. Removing real frustrations to make daily tasks genuinely enjoyable.
+Stacy is driven, in both daily work and in the community, by the feeling she gets when she sees teams improve. The smile on their faces when they enjoy what they're doing more. Removing real frustrations to make daily tasks genuinely enjoyable.
 
 For her effort in the community Stacy has been awarded the Microsoft MVP for Developer Technologies since 2020.
 
